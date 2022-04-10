@@ -45,3 +45,8 @@ h1{
     border-style: solid;
     background-color: rgb(227, 98, 98);
 }
+
+.questions{
+    font-size: 24px;
+    font-weight: bold;
+}
